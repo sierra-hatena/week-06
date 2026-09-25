@@ -1,4 +1,36 @@
 body {background-color: #FFF1D1;}
-h1 {color: #6D0808;}
-h2 {color: #F2842F;}
-p {color: #006199;}
+h1 {color: #6D0808; 
+    text-align: center; 
+    font-size: 50pt; 
+    font-weight: normal;
+    font-family: sans-serif;
+    font-style: italic;
+   }
+h2 {color: #F2842F; text-align: center;}
+h3 {text-align: center;}
+p {color: #004A75; 
+    background-color: darkgray; 
+    padding: .5em;
+    margin: auto;
+    margin-bottom: 2em;
+    border: 3px dashed black;
+    width: 50%;
+    min-width: 40em;
+  }
+
+.right {text-align: right;}
+.left {text-align: left;}
+.center {text-align: center;}
+
+.bgGreen {background-color: #A2AB73;}
+.bgOrange {background-color: #D99B21;}
+.bgYellow {background-color: #F4D35E;}
+.bgblue {background-color: #ADD8E6;}
+.bgpink {background-color: #FFC5D3;}
+.bgAqua {background-color: #00FFFF;}
+.bgPurple {background-color: #f291b5;}
+.bgFlowery {background-color: #FFDF00;}
+.Soul{background-color: #FF8A8A;}
+
+div {text-align: center;}
+a {color: #3F0FB7 ;}
